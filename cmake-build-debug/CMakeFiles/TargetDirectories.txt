@@ -1,0 +1,3 @@
+D:/Uni Work/1 - CS23820 - C and C++/Assignment/cs23820_bas22/Project/cmake-build-debug/CMakeFiles/Project.dir
+D:/Uni Work/1 - CS23820 - C and C++/Assignment/cs23820_bas22/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Uni Work/1 - CS23820 - C and C++/Assignment/cs23820_bas22/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
